@@ -1,0 +1,210 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#403075, #882D61);
+}
+
+.piano {
+  display: flex;
+  position: relative;
+  margin-left: 4px;
+}
+
+.white-key { 
+  width: 75px;
+  height: 220px;
+  background-color: #FFF;
+  border: 4px solid black;
+  border-radius: 0 0 6px 6px;
+  margin-left: -12.9px;
+  outline: none;
+  cursor: pointer;
+}
+
+.white-key.active {
+  background-color: #C0C0C0;
+}
+
+.black-key {
+  position: absolute;
+  width: 50px;
+  height: 150px;
+  background-image: linear-gradient(#000000, #303030);
+  border: 3px solid black;
+  border-radius: 0 0 2px 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.black-key.active {
+  background-image: linear-gradient(#000000, #101010);
+}
+
+.Db4-key {
+  left: 27px;
+}
+
+.Eb4-key {
+  left: 89px;
+}
+
+.Gb4-key {
+  left: 212px;
+}
+
+.Ab4-key {
+  left: 274px;
+}
+
+.Bb4-key {
+  left: 338px;
+}
+
+.Db5-key {
+  left: 460px;
+}
+
+.Eb5-key {
+  left: 525px;
+}
+
+#do{
+  display:flex;
+  margin-right: 110px;
+ margin-top: 180px;
+ margin-left: 20px;
+}
+
+#re{
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#mi {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#fa {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#so {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#sol {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#la {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#si {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#d {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#r {
+  display: flex;
+  margin-right: 100px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#m {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#dos {
+  display: flex;
+  color: #FFF;
+  margin-right: 120px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#res {
+  display: flex;
+  color: #FFF;
+  margin-right: 120px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#fas {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#sols {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#las {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#dus {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#resi {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
