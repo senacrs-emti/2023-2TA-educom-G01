@@ -14,7 +14,7 @@ const C5 = new Audio("notas/C5.mp3");
 const Db5 = new Audio("notas/Db5.mp3");
 const D5 = new Audio("notas/D5.mp3");
 const Eb5 = new Audio("notas/Eb5.mp3");
-const E5 = new Audio("notas/E5.mp3");
+const E5 = new Audio("notas/E4.mp3");
 
 const playSound = audio => {
   const clone = audio.cloneNode();

@@ -1,0 +1,16 @@
+*{
+background-image: url("Layout.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+img{
+    position: relative;
+    top: 550px;
+    left: 700px;
+}
+
+body {
+    min-height: 100%;
+}
