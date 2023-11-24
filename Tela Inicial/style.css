@@ -1,0 +1,11 @@
+body{
+    background-image: url(TelaInicial.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bot{
+    position: relative;
+    top: 495px;
+    left: 570px;
+}
