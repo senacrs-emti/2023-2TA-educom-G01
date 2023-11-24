@@ -79,135 +79,152 @@ body {
 #do{
   display:flex;
   margin-right: 110px;
- margin-top: 180px;
- margin-left: 20px;
+ margin-top: 165px;
+ margin-left: 15px;
 }
 
 #re{
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 20px;
+  margin-top: 165px;
+  margin-left: 15px;
 }
 
 #mi {
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 20px;
+  margin-top: 165px;
+  margin-left: 15px;
 }
 
 #fa {
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 15px;
-}
-
-#so {
-  display: flex;
-  margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 15px;
-}
-
-#sol {
-  display: flex;
-  margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 15px;
-}
-
-#la {
-  display: flex;
-  margin-right: 110px;
-  margin-top: 180px;
+  margin-top: 165px;
   margin-left: 15px;
 }
 
 #si {
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
+  margin-top: 165px;
   margin-left: 15px;
 }
 
-#d {
+#sol {
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
+  margin-top: 165px;
   margin-left: 15px;
 }
 
-#r {
+#la {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 165px;
+  margin-left: 15px;
+}
+
+#si {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 165px;
+  margin-left: 15px;
+}
+
+#do1 {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 165px;
+  margin-left: 15px;
+}
+
+#re1 {
   display: flex;
   margin-right: 100px;
-  margin-top: 180px;
+  margin-top: 165px;
   margin-left: 15px;
 }
 
-#m {
+#mi {
   display: flex;
   margin-right: 110px;
-  margin-top: 180px;
-  margin-left: 20px;
+  margin-top: 165px;
+  margin-left: 15px;
 }
 
-#dos {
+#dosus {
   display: flex;
   color: #FFF;
   margin-right: 120px;
-  margin-top: 10px;
-  margin-left: 0px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#res {
+#resus {
   display: flex;
   color: #FFF;
   margin-right: 120px;
-  margin-top: 10px;
-  margin-left: 0px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#fas {
+#fasus {
   display: flex;
   color: #FFF;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#sols {
+#solsus {
   display: flex;
   color: #FFF;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#las {
+#lasus {
   display: flex;
   color: #FFF;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#dus {
+#dosus {
   display: flex;
   color: #FFF;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
 
-#resi {
+#resus {
   display: flex;
   color: #FFF;
   margin-right: 0px;
-  margin-top: 10px;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 3px;
 }
+
+#do1sus {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+
+#re1sus {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+
 
 body{
   background-image: url("Fundo.PNG");
